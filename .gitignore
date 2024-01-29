@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 *.txt
 node_modules/
+=======
+*.txt
+>>>>>>> ac7acea... .gitignore file added
